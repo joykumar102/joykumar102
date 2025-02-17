@@ -1,4 +1,4 @@
-# Hi there, I'm Shah Alim Shompod! 👋
+# Hi there, I'm Joy KUmar! 👋
 
 ![Banner](https://i.ibb.co.com/z6bHScj/423670923-1792336831210942-7011210272215150681-n.jpg)
 
