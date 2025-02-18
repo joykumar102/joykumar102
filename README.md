@@ -12,6 +12,7 @@ Hi! I'm Joy Kumar, a passionate Front-end Web Developer with a strong interest i
 - 🌍 Building a **News Portal Website**.
 - 📚 Learning **Next.Js**. 
 - 💡 Contributing to open-source projects.
+- 📫 How to reach me: 📧njrksb@gmail.com 
 
 ---
 
