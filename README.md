@@ -1,7 +1,5 @@
 # Hi 👋 there, I'm Joy Kumar! Welcome to my profile
 ![Banner](https://i.ibb.co.com/0jsLP4r7/Black-Modern-Mobile-Developer-Business-Id-Card.png)
-![Header](https://i.ibb.co.com/0jsLP4r7/Black-Modern-Mobile-Developer-Business-Id-Card.png)
-(https://i.ibb.co.com/0jsLP4r7/Black-Modern-Mobile-Developer-Business-Id-Card.png)
 
 ## 🚀 Front-end Web Developer | Open Source Contributor
 
