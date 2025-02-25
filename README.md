@@ -54,7 +54,10 @@ Hi! I'm Joy Kumar, a passionate Front-end Web Developer with a strong interest i
 ---
 
 ## 📊 My Stats & progress
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joykumar102&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joykumar102&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joykumar102&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joykumar102&theme=react-dark&hide_border=true)
 
 ---
 
