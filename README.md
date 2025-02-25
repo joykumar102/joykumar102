@@ -63,14 +63,6 @@ Hi! I'm Joy Kumar, a passionate Front-end Web Developer with a strong interest i
 
 ---
 
-# 📊 GitHub Stats:
-
-
----
-[![](https://visitcount.itsvg.in/api?id=joykumar102&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 ---
 
 ### 🎯 Thank You for Visiting! Happy Coding! 🚀
